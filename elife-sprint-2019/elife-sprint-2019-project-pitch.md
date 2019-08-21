@@ -16,8 +16,11 @@ Problem statement: As a reader (and commenter/reviewer/PreLighter) of preprints,
 * ethnicity -- I think this would not be possible
 The prototype should pick 1-2 simple rules only and may be restricted to a specific server (or set of servers) for which a feed is available and the metadata is sufficient to filter for preprints according to the rule above.
 
-**Links/notes:** This project has a github repo at TBD, containing further background information to this idea and our expectations for where it might go next.
-Resources that may be helpful: biorxiv metadata dump (retrievable from rxivist data: ?), or eupmc data access.
+**Links/notes:** This project has a github repo at github.com/npscience/equitable-preprints, containing further [background information](https://github.com/npscience/equitable-preprints/blob/master/elife-sprint-2019/equity-in-preprints-background-notes.md) to this idea and our expectations for where it might go next.
+
+**Resources that may be helpful:**
+* biorxiv metadata dump (retrievable from rxivist data?)
+* eupmc data access (e.g. API or dump)
 
 **Call for contributors:** Are there particular skills that the project needs? (1) Developer(s)/data scientist(s) to write script to apply rule to a dataset of preprints and produce a tool that displays the filtered or marked output. Interoperability with existing preprint server(s) and third-party preprint commentary initiatives (PreLights, PreLists, PREreview, etc would be helpful); (2) Users: researchers, preprint commentary initiative leads & contributors; (3) Scientometrics/ethics specialist: how to create these filtering rules? How to be transparent?; (4) Someone(s) who would be interested to take project forward if prototype/idea is useful; (5) Someone who can design a nice web presence for the tool
 

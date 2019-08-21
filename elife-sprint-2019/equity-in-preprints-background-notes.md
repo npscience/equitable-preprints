@@ -51,10 +51,17 @@ Opportunities:
 (2) identify preprints by authors who are less visible in traditional Global North publishing venues --> top of the pile for review, filtering?
 (3) identify preprints regardless of where posted? (so long as posted somewhere with ethical screening, archiving, withdrawal processes?)
 
+
+# Focus on opportunity 2
+**How might readers identify new preprints by authors (first author?) who may be less likely to be seen and prioritise them for reading & review? The reader would then add weight to the preprint with a peer recommendation and/or provide feedback as to how they can improve, thus providing the first step towards full scientific review and reputation gain. This isn't a one-stop solution that makes science meritocratic, instead it's a helping hand towards improving access to reputation by those under-served in the current process.**
+
+
 Existing tools / initiatives
 * Open Knowledge Maps indicate increasing visibility of African research as reason for partnering with AfricArxiv: https://info.africarxiv.org/strategic-partnership-with-open-knowledge-maps/
 * PREreview wants to review preprints in a way that is more inclusive than traditional peer review?
 * EuropePMC indexes preprints-- what could they do to display indicators of which preprints could be given attention?
 * PreLists is new initiative by CoB to curate lists of preprints -- what are the assumptions and biases of the curators? How might they mitigate?
-
-Opportunity 2: how to identify new preprints by authors (first author?) who may be less likely to be seen and prioritise them for reading & review --> add weight to their preprint with a peer recommendation and/or provide feedback as to how they can improve
+* Sbotlite retweets preprints by female (presumed) first authors https://github.com/sbotlite
+* Promising preprints retweets preprints that are gaining social attention quickly: https://github.com/wdecoster/PromisingPreprint
+* TriangleSCI 2019 project team re equity in peer review
+* African Science Initiative, FutureAfrica -- encouraging connections between African scientists

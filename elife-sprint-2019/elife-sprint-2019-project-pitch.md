@@ -24,7 +24,7 @@ The prototype should pick 1-2 simple rules only and may be restricted to a speci
 * eupmc data access (e.g., API or dump)
 * [getpreprints](https://github.com/PREreview/getpreprints) module (PREreview, documentation to be udated)
 
-**Call for contributors:** Are there particular skills that the project needs? 
+**Call for contributors:** Are there particular skills that the project needs?  
 (1) Developer(s)/data scientist(s) to write script to apply rule to a dataset of preprints and produce a tool that displays the filtered or marked output. Interoperability with existing preprint server(s) and third-party preprint commentary initiatives (PreLights, PreLists, PREreview, etc. would be helpful);  
 (2) Users: researchers, preprint commentary initiative leads & contributors;  
 (3) Scientometrics/ethics specialist: how to create these filtering rules? How to be transparent?;  

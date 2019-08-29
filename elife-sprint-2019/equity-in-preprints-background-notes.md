@@ -63,5 +63,5 @@ Existing tools / initiatives
 * PreLists is new initiative by CoB to curate lists of preprints -- what are the assumptions and biases of the curators? How might they mitigate?
 * Sbotlite retweets preprints by female (presumed) first authors https://github.com/sbotlite
 * Promising preprints retweets preprints that are gaining social attention quickly: https://github.com/wdecoster/PromisingPreprint
-* TriangleSCI 2019 project team re equity in peer review
+* [TriangleSCI 2019 project team: bringing equity and diversity to peer review](https://trianglesci.org/2019/07/25/bringing-equity-and-diversity-to-peer-review/)
 * African Science Initiative, FutureAfrica -- encouraging connections between African scientists

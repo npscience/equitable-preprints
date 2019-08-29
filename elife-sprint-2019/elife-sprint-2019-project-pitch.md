@@ -32,3 +32,4 @@ The prototype should pick 1-2 simple rules only and may be restricted to a speci
 (5) Someone who can design and build a nice web presence for the tool
 
 **Interested contributors:** *please list yourself here if you are interested in contributing to this idea at the Sprint.*
+* Rich Abdill (rabdill@umn.edu)

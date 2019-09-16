@@ -25,6 +25,8 @@ However, reputation hierarchies and review processes are inherently social in na
 * curation and filtering decisions that contribute to social elevation tend to be made by people with higher social status, and people with higher social status are more likely to represent people with lower burden of bias and inequality.
 
 Scientific peer review is imperfect and can propagate bias and inequalities:
+* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002760
+* https://www.pnas.org/content/114/48/12708
 * [add references here!]
 
 Preprints offer a route for people to share scientific work after a lower level of gatekeeping than formal peer review. This means more people may be able to share their work online and more quickly.
